@@ -1,0 +1,13 @@
+AvionicsModule|2
+ScrewSet|10
+DiagnosticKit|1
+CalibrationKit|2
+HydraulicFluid|3
+O-Ring|5
+WrenchSet|2
+PressureGauge|2
+Seals|4
+LubricationGrease|4
+RagSet|10
+OilSet|3
+BearingKit|2

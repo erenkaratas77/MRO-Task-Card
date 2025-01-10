@@ -1,0 +1,6 @@
+Avionics|Avionics Diagnostic Check|Power off the avionics unit,Remove protective covers,Run diagnostic software,Replace faulty modules if found,Reassemble and test system|AvionicsModule,ScrewSet,DiagnosticKit
+Avionics|Instrument Calibration|Access cockpit instruments,Connect calibration tools,Adjust instruments as per manual,Re-test accuracy,Restore cockpit panels|CalibrationKit,ScrewSet
+Hydraulic|Hydraulic Leak Repair|Identify leak location,Drain hydraulic fluid,Replace damaged O-rings,Refill hydraulic fluid,Test hydraulic pressure|HydraulicFluid,O-Ring,WrenchSet
+Hydraulic|Pressure System Check|Connect pressure gauge,Run pressure test cycle,Inspect readings for anomalies,Replace seals if needed,Document pressure readings|PressureGauge,Seals
+Mechanical|Landing Gear Lubrication|Lift aircraft and secure,Clean landing gear joints,Apply lubrication grease,Lower aircraft,Perform operational check|LubricationGrease,RagSet
+Mechanical|Engine Inspection|Open engine cowling,Inspect fan blades and bearings,Check oil levels,Replace worn parts if needed,Close cowling and test|OilSet,BearingKit,ScrewSet
